@@ -1,7 +1,7 @@
-# Link para Download Git :arrow_down:
+# Link para Download Git :man_technologist:
 
 
 
-Link : https://git-scm.com/downloads
+:arrow_down_small:  Link : https://git-scm.com/downloads
 
 O git Bash e um terminal estendido para otimizar o uso do Git.
